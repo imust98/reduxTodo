@@ -1,0 +1,43 @@
+<div id="todoapp">
+  <div>
+    <h1>TODOMVC</h1>
+    <input id="new-todo" r-model={text} on-keydown={this.onKeyDown($event)} placeholder="What needs to be done?">
+  </div>
+  <section id="main">
+    <input id="toggle-all" type="checkbox">
+    <label for="toggle-all">Mark all as complete</label>
+    <ul id="todo-list">
+      {#if !todos.length}
+      <li></li>
+      {#else}
+      {#list todos as item}
+      <li r-class={{'completed':item.completed}}>
+        <div class="view">
+          <input class="toggle" type="checkbox" on-click={this.toggleTodo(item_index)} {#if item.completed}checked{/if}>
+          <label>{item.text}</label>
+          <button class="destroy"></button>
+        </div>
+        <input id="edit" class="edit">
+      </li>
+      {/list}
+      {/if}
+    </ul>
+  </section>
+  <footer id="footer">
+    <span id="todo-count"> <strong>1</strong>
+      item left
+    </span>
+    <ul id="filters">
+      <li> <a r-class={{'selected':filter === 'SHOW_ALL'}} on-click={this.filterTodo('SHOW_ALL')}>All</a> </li>
+      <li> <a r-class={{'selected':filter === 'SHOW_ACTIVE'}} on-click={this.filterTodo('SHOW_ACTIVE')}>Active</a> </li>
+      <li> <a r-class={{'selected':filter === 'SHOW_COMPLETED'}} on-click={this.filterTodo('SHOW_COMPLETED')}>Completed</a> </li>
+    </ul>
+    <button id="clear-completed">Clear completed (1)</button>
+  </footer>
+</div>
+<footer id="info">
+  <p>
+    Part of
+    <a href="http://todomvc.com">TodoMVC</a>
+  </p>
+</footer>
