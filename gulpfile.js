@@ -4,14 +4,14 @@ var livereload = require('gulp-livereload');
 var watch = require('gulp-watch');
 
 var es6Path = {
-	src:'./app/**.js',
+	src:['./app/*.js','./app/*/*.js'],
 	dest:'dest'
 }
 
 gulp.task('babel',function () {
 	return gulp.src(es6Path.src)
-	.pipe(babel())
 	.pipe(gulp.dest(es6Path.dest))
+	.pipe(babel())
 	.pipe(livereload());
 });
 
