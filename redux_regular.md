@@ -11,7 +11,16 @@
 >总结
 
 ###什么是Redux
-Redux 是 facebook 提出的 flux 架构的一种优秀实现，它跟react没有必然的联系，可以跟任何框架结合使用；Redux主要用来管理State的状态,所有的操作都需要经过Redux来操作。它主要由Action，Reducer，Store三部分组成。
+首先我们应该先来说说Flux，Flux 是一种架构思想，它跟MVC 架构是同一类东西，但是更加简单和清晰。Flux将一个应用分成四个部分：
+
+* View： 视图层
+* Action（动作）：视图层发出的消息（比如mouseClick）
+* Dispatcher（派发器）：用来接收Actions、执行回调函数
+* Store（数据层）：用来存放应用的状态，一旦发生变动，就提醒Views要更新页面
+
+
+
+Redux 是 facebook 提出的 Flux 架构的一种优秀实现，它跟react没有必然的联系，可以跟任何框架结合使用；Redux主要用来管理State的状态,所有的操作都需要经过Redux来操作。它主要由Action，Reducer，Store三部分组成。
 
 ###Action
 Actions 是把数据从应用传到 store 的有效载荷。它是 store 数据的唯一来源。用法是通过 store.dispatch() 把 action 传到 store。
@@ -69,7 +78,7 @@ Action 只是描述了有事情发生了这一事实，并没有指明应用如�
 ![流程图](https://raw.githubusercontent.com/CTlihaoliang/reduxTodo/master/res/redux.png)
 </center>
 ###结合框架使用
-上面已经简单的介绍了什么什么是Redux,以及Redux中非常重要的几个概念，那么下面我们再来说说Redux如何结合MVVM框架来使用：
+上面已经简单的介绍了什么是Redux,以及Redux中非常重要的几个概念，那么下面我们再来说说Redux如何结合MVVM框架来使用：
 既然Redux已经来帮我们管理好了数据，这些数据当然要交给组件来使用啦，当然组件也应该具有触发修改数据的能力，那么我们就需要在Redux和Component之间搭建一个桥梁，一般情况下我们需要根据不同框架实现一个Provider组件和一个connect组件的接口。
 ####Provider
 Provider用来保存store给需要connect的组件使用，看起来应该像这样：
@@ -110,10 +119,10 @@ Redux 真正的灵魂在于其思想，同时给我们开发复杂项目提供�
 * 使用基本的对象来描述系统变化
 * 使用纯函数来处理系统中的业务逻辑
 
-基于上面描述的这些理论，方便更好的理解，写了一个Redux + Regular 的todoMVC的demo，点击下面的链接：
+基于上面描述的这些理论，方便更好的理解，写了一个Redux + Regular 的todoMVC的demo，点击下面的链接可以查看文件和在线浏览项目：
 
-[demo地址](https://github.com/CTlihaoliang/reduxTodo)
-
+[github项目地址](https://github.com/CTlihaoliang/reduxTodo)  
+[项目在线预览](https://ctlihaoliang.github.io/reduxTodo/)
 
 ###资料参考：
 
