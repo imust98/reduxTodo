@@ -1,0 +1,1238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5386c0b9-a02b-4a64-aec9-4785036ae383" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.babelrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/actions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/reducers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/regular-redux/bindStore.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/regular-redux/connect.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/store.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/todomvc.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/todomvc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/base.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dest/actions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dest/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dest/reducers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dest/regular-redux/bindStore.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dest/regular-redux/connect.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dest/store.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dest/todomvc.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dest/todomvc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/CHANGELOG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/doc/AJAX.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/doc/CACHE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/doc/DEPENDENCY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/doc/DISPATCHER.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/doc/FAQ.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/doc/MESSAGE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/doc/PLATFORM.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/doc/TEMPLATE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/doc/WIDGET.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/doc/guide/Build.Scalable.Web.System.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/doc/guide/Build.Scalable.Web.System/Module.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/doc/guide/Build.Scalable.Web.System/Platform.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/res/audio_sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/res/crossdomain.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/res/frame.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/res/nej_blank.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/res/nej_clipboard.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/res/nej_color.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/res/nej_color_btn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/res/nej_color_mask.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/res/nej_editor.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/res/nej_player_audio.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/res/nej_proxy_flash.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/res/nej_proxy_frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/res/nej_proxy_upload.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/res/nej_storage.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/res/nej_upload_image.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/res/src/nej_proxy_frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/res/src/nej_proxy_upload.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/base/chain.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/base/config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/base/constant.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/base/demo/define/a.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/base/demo/define/a.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/base/demo/define/a.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/base/demo/define/define.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/base/demo/define/style.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/base/demo/element.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/base/demo/event.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/base/demo/klass.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/base/demo/test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/base/demo/util.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/base/element.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/base/event.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/base/global.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/base/klass.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/base/platform.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/base/platform/config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/base/platform/config.patch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/base/platform/element.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/base/platform/element.patch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/base/platform/event.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/base/platform/event.patch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/base/platform/util.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/base/platform/util.patch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/base/test/config.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/base/test/config.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/base/test/constant.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/base/test/constant.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/base/test/element.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/base/test/element.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/base/test/event.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/base/test/event.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/base/test/global.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/base/test/global.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/base/test/klass.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/base/test/klass.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/base/test/platform.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/base/test/platform.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/base/test/util.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/base/test/util.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/base/util.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/define.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/audio/audio.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/audio/audio.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/audio/audio.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/audio/mp3.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/audio/mp3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/audio/mp3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/audio/test/audio.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/audio/test/audio.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/audio/test/mp3.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/audio/test/mp3.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/base.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/carousel.list/carousel.list.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/carousel/carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/carousel/carousel.list.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/carousel/carousel.x.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/carousel/carousel.y.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/carousel/indicator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/carousel/list.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/carousel/test/carousel.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/carousel/test/carousel.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/carousel/x.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/carousel/y.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/colorpick/colorpanel.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/colorpick/colorpanel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/colorpick/colorpanel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/colorpick/colorpick.complex.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/colorpick/colorpick.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/colorpick/colorpick.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/colorpick/colorpick.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/colorpick/colorpick.simple.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/colorpick/complex.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/colorpick/complex.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/colorpick/demo/colorpanel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/colorpick/demo/colorpick.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/colorpick/demo/complex.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/colorpick/demo/simple.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/colorpick/simple.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/colorpick/simple.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/colorpick/simple.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/colorpick/test/colorpanel.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/colorpick/test/colorpanel.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/datepick/datepick.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/datepick/datepick.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/datepick/datepick.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/datepick/demo/datepick.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/datepick/test/datepick.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/datepick/test/datepick.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/editor/command/color.complex.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/editor/command/color.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/editor/command/color.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/editor/command/color.simple.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/editor/command/complex.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/editor/command/complex.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/editor/command/font.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/editor/command/font.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/editor/command/font.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/editor/command/fontname.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/editor/command/fontsize.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/editor/command/link.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/editor/command/link.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/editor/command/link.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/editor/command/simple.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/editor/command/simple.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/editor/command/uploadimage.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/editor/command/uploadimage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/editor/command/uploadimage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/editor/custom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/editor/demo/0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/editor/demo/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/editor/demo/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/editor/demo/custom.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/editor/editor.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/editor/editor.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/editor/editor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/editor/test/custom.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/editor/test/custom.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/item/item.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/item/list.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/layer/card.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/layer/card.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/layer/card.wrapper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/layer/demo/card.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/layer/demo/window.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/layer/layer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/layer/layer.wrapper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/layer/test/card.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/layer/test/card.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/layer/test/layer.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/layer/test/layer.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/layer/test/mylayer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/layer/test/mylayercard.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/layer/test/mylayerwrapper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/layer/test/mywindow.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/layer/test/window.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/layer/test/window.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/layer/test/window.wrapper.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/layer/test/window.wrapper.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/layer/window.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/layer/window.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/layer/window.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/layer/window.wrapper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/layer/wrapper/card.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/layer/wrapper/layer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/layer/wrapper/window.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/lightbox/demo/lightbox.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/lightbox/lightbox.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/lightbox/lightbox.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/lightbox/lightbox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/mask/mask.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/mask/mask.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/mask/test/mask.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/mask/test/mask.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/pager/base.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/pager/base.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/pager/demo/pager.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/pager/pager.base.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/pager/pager.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/pager/pager.simple.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/pager/simple.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/pager/test/pager.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/pager/test/pager.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/portrait/complex.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/portrait/complex.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/portrait/complex.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/portrait/demo/complex.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/portrait/demo/simple.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/portrait/portrait.complex.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/portrait/portrait.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/portrait/portrait.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/portrait/portrait.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/portrait/portrait.simple.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/portrait/simple.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/range/range.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/range/range.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/resizer/demo/resizer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/resizer/resizer.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/resizer/resizer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/resizer/resizer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/scroller.list/scroller.list.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/scroller.list/test/scroller.list.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/scroller.list/test/scroller.list.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/scroller/demo/y.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/scroller/list.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/scroller/list.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/scroller/scroller.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/scroller/scroller.x.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/scroller/scroller.y.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/scroller/test/scroller.y.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/scroller/test/scroller.y.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/scroller/x.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/scroller/x.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/scroller/y.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/scroller/y.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/suggest/demo/suggest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/suggest/suggest.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/suggest/suggest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/suggest/suggest.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/suggest/test/suggest.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/suggest/test/suggest.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/timepick/demo/timepick.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/timepick/test/timepick.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/timepick/test/timepick.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/timepick/timepick.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/timepick/timepick.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/ui/timepick/timepick.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/ajax/demo/a.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/ajax/demo/a.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/ajax/demo/b.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/ajax/demo/b.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/ajax/demo/rest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/ajax/demo/tag.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/ajax/demo/upload.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/ajax/demo/xdr.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/ajax/dwr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/ajax/jsonp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/ajax/loader/html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/ajax/loader/loader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/ajax/loader/platform/html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/ajax/loader/platform/html.patch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/ajax/loader/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/ajax/loader/style.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/ajax/loader/test/loader.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/ajax/loader/test/loader.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/ajax/loader/text.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/ajax/message.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/ajax/platform/message.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/ajax/platform/message.patch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/ajax/platform/xdr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/ajax/platform/xdr.patch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/ajax/proxy/flash.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/ajax/proxy/frame.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/ajax/proxy/platform/xhr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/ajax/proxy/platform/xhr.patch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/ajax/proxy/proxy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/ajax/proxy/upload.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/ajax/proxy/xhr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/ajax/rest.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/ajax/tag.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/ajax/test/a.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/ajax/test/a.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/ajax/test/b.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/ajax/test/b.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/ajax/test/message.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/ajax/test/message.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/ajax/test/tag.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/ajax/test/tag.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/ajax/test/x.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/ajax/test/xdr.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/ajax/test/xdr.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/ajax/test/xx.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/ajax/test/xxx.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/ajax/xdr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/animation/animation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/animation/bezier.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/animation/bounce.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/animation/decelerate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/animation/demo/easeout.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/animation/easein.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/animation/easeinout.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/animation/easeout.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/animation/linear.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/animation/test/animation.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/animation/test/animation.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/audio/audio.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/audio/demo/a.aac" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/audio/demo/a.amr" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/audio/demo/audio.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/audio/platform/audio.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/audio/platform/audio.patch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/audio/test/audio.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/audio/test/audio.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/cache/abstract.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/cache/cache.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/cache/cache.list.base.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/cache/cache.list.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/cache/cache.share.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/cache/cookie.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/cache/database.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/cache/demo/cookie.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/cache/demo/list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/cache/demo/list.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/cache/demo/storage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/cache/list.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/cache/manager.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/cache/platform/storage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/cache/platform/storage.patch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/cache/share.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/cache/storage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/cache/test/cache.custom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/cache/test/cache.list.custom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/cache/test/cache.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/cache/test/cache.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/cache/test/cookie.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/cache/test/cookie.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/cache/test/storage.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/cache/test/storage.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/calendar/calendar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/chain/NodeList.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/chain/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/chain/chainable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/chain/test/chainable.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/chain/test/chainable.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/chain/test/fixture.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/chain/test/playjs.sublime-project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/chain/test/playjs.sublime-workspace" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/chart/chart.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/clipboard/clipboard.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/clipboard/demo/clipboard.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/clipboard/test/clipboard.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/clipboard/test/clipboard.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/clipper/clipper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/clipper/demo/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/clipper/demo/clipper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/clock/clock.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/color/color.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/color/demo/color.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/counter/counter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/counter/demo/counter.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/counter/platform/counter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/counter/platform/counter.patch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/counter/test/counter.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/counter/test/counter.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/cursor/cursor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/cursor/demo/cursor.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/cursor/platform/cursor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/cursor/platform/cursor.patch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/cycler/cycler.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/cycler/test/cycler.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/cycler/test/cycler.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/data/portrait/portrait.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/data/region/zh.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/dispatcher/dispatcher.2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/dispatcher/dispatcher.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/dispatcher/dsp/group.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/dispatcher/dsp/node.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/dispatcher/dsp/single.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/dispatcher/dsp/util.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/dispatcher/module.base.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/dispatcher/module.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/dispatcher/platform/dispatcher.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/dispatcher/platform/dispatcher.patch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/dispatcher/regularModule.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/dispatcher/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/dispatcher/test/c/c1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/dispatcher/test/c/c2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/dispatcher/test/c/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/dispatcher/test/c/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/dispatcher/test/dispatcher.2.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/dispatcher/test/dispatcher.2.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/dispatcher/test/m/a.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/dispatcher/test/m/b.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/dispatcher/test/m/c.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/dispatcher/test/m/c1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/dispatcher/test/m/c2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/dispatcher/test/m/root.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/dispatcher/test/private.module.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/dispatcher/test/private.module.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/dispatcher/test/root/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/dispatcher/test/root/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/dragger/dragger.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/dragger/simple.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/dragger/test/dragger.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/dragger/test/dragger.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/editor/area.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/editor/command.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/editor/command/backcolor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/editor/command/blockquote.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/editor/command/bold.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/editor/command/card.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/editor/command/color.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/editor/command/font.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/editor/command/fontname.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/editor/command/fontsize.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/editor/command/forecolor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/editor/command/format.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/editor/command/insertorderedlist.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/editor/command/insertunorderedlist.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/editor/command/italic.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/editor/command/justifycenter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/editor/command/justifyleft.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/editor/command/justifyright.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/editor/command/link.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/editor/command/removeformat.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/editor/command/simple.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/editor/command/space.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/editor/command/strikethrough.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/editor/command/superscript.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/editor/command/underline.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/editor/command/uploadimage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/editor/demo/text.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/editor/editor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/editor/platform/editor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/editor/platform/editor.patch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/editor/platform/editor.td.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/editor/platform/text.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/editor/text.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/editor/text.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/editor/toolbar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/effect/api.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/effect/effect.api.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/effect/effect.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/effect/platform/effect.api.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/effect/platform/effect.api.patch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/effect/platform/effect.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/effect/platform/effect.patch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/effect/test/effcet.api.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/effect/test/effect.api.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/effect/test/effect.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/effect/test/effect.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/encode/base64.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/encode/crc32.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/encode/demo/json.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/encode/json.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/encode/md5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/encode/platform/3rd.json.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/encode/platform/json.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/encode/platform/json.patch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/encode/sha.md5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/encode/test/base64.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/encode/test/base64.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/es/array.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/es/demo/array.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/es/platform/array.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/es/platform/array.patch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/event.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/event/event.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/file/demo/file.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/file/demo/paste.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/file/demo/select.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/file/demo/upload" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/file/paste.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/file/platform/paste.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/file/platform/paste.patch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/file/platform/select.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/file/platform/select.patch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/file/save.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/file/select.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/file/test/save.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/file/test/save.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/file/test/select.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/file/test/select.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/flash/flash.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/flash/flash.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/flash/platform/flash.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/flash/platform/flash.patch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/flash/test/flash.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/flash/test/flash.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/focus/focus.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/focus/platform/focus.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/focus/platform/focus.patch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/focus/test/focus.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/focus/test/focus.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/form/demo/form.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/form/form.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/form/test/form.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/form/test/form.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/gestrue/drag.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/gestrue/gestrue.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/gestrue/pinch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/gestrue/rotate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/gestrue/swipe.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/gestrue/tap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/helper/select.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/highlight/test/highlight.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/highlight/test/highlight.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/highlight/touch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/history/history.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/history/history.override.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/history/manager.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/history/platform/history.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/history/platform/history.patch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/hover/hover.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/hover/platform/hover.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/hover/platform/hover.patch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/hover/test/hover.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/hover/test/hover.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/lazy/demo/image.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/lazy/image.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/lazy/loading.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/lightbox/demo/lightbox.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/lightbox/lightbox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/list/demo/data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/list/demo/list/cache.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/list/demo/list/item.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/list/demo/list/jst.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/list/demo/list/ntp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/list/demo/list/pg.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/list/demo/list/wf.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/list/demo/page.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/list/demo/waterfall.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/list/holder.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/list/module.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/list/module.pager.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/list/module.waterfall.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/list/page.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/list/test/cache.list.custom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/list/test/module.pager.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/list/test/module.pager.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/list/waterfall.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/media/audio.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/media/flash.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/media/media.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/media/playlist.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/media/test/audio.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/media/test/audio.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/page/base.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/page/page.base.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/page/page.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/page/page.simple.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/page/simple.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/placeholder/demo/placeholder.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/placeholder/placeholder.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/placeholder/platform/holder.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/placeholder/platform/holder.patch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/placeholder/test/placeholder.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/placeholder/test/placeholder.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/profile/profile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/query/demo/demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/query/nes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/query/query.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/range/demo/range.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/range/range.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/range/test/range.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/range/test/range.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/region/demo/at.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/region/region.zh.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/region/test/region.zh.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/region/test/region.zh.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/region/zh.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/resize/demo/resize.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/resize/resize.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/resize/test/resize.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/resize/test/resize.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/scroll/demo/simple.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/scroll/demo/smart.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/scroll/platform/simple.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/scroll/platform/simple.patch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/scroll/scroll.simple.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/scroll/simple.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/scroll/smart.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/selector/cascade.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/selector/demo/cascade.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/selector/demo/selector.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/selector/range.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/selector/selector.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/selector/selector.range.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/slider/demo/simple.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/slider/demo/y.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/slider/simple.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/slider/slider.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/slider/slider.simple.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/slider/slider.x.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/slider/slider.xy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/slider/slider.y.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/slider/test/slider.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/slider/test/slider.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/slider/test/sorter.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/slider/x.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/slider/xy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/slider/y.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/sort/demo/horizontal.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/sort/demo/horizontal.trigger.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/sort/demo/vertical.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/sort/demo/vertical.trigger.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/sort/horizontal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/sort/sortable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/sort/vertical.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/suggest/at.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/suggest/demo/at.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/suggest/demo/suggest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/suggest/suggest.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/suggest/test/suggest.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/suggest/test/suggest.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/tab/tab.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/tab/tab.view.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/tab/test/tab.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/tab/test/tab.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/tab/view.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/template/demo/a.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/template/demo/b.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/template/demo/jst.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/template/demo/tpl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/template/jst.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/template/test/jst.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/template/test/jst.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/template/test/myItem.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/template/test/tpl.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/template/test/tpl.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/template/tpl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/template/trimpath.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/timer/animation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/timer/interval.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/timer/platform/animation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/timer/platform/animation.patch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/toggle/demo/toggle.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/toggle/test/toggle.test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/toggle/test/toggle.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nej/src/util/toggle/toggle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/redux/redux-logger.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/redux/redux-thunk.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/redux/redux.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/regularjs/regular.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/redux_regular.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/redux.png" afterPath="" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="reduxTodo" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>connect</find>
+      <find>actions</find>
+      <find>visibilityFilter</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/dest/regular-redux/connect.js" />
+        <option value="$PROJECT_DIR$/app/todolist.js" />
+        <option value="$PROJECT_DIR$/dest/app.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/app/regular-redux/connect.js" />
+        <option value="$PROJECT_DIR$/app/actions.js" />
+        <option value="$PROJECT_DIR$/app/todomvc.js" />
+        <option value="$PROJECT_DIR$/app/store.js" />
+        <option value="$PROJECT_DIR$/dest/store.js" />
+        <option value="$PROJECT_DIR$/app/reducers.js" />
+        <option value="$PROJECT_DIR$/dest/todomvc.html" />
+        <option value="$PROJECT_DIR$/app/todomvc.html" />
+        <option value="$PROJECT_DIR$/app/app.js" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/app/regular-redux/bindStore.js" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reduxTodo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reduxTodo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reduxTodo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reduxTodo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reduxTodo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reduxTodo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="regular-redux" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reduxTodo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reduxTodo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="/usr/local/lib/node_modules/gulp" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="dispatcher&#9;null&#9;null" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/res" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/regularjs" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5386c0b9-a02b-4a64-aec9-4785036ae383" name="Default" comment="" />
+      <created>1491825794787</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1491825794787</updated>
+      <workItem from="1491825951648" duration="1492000" />
+      <workItem from="1491874231160" duration="23297000" />
+      <workItem from="1492408225009" duration="1722000" />
+      <workItem from="1492410513377" duration="10561000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="37072000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24876674" sideWeight="0.50486785" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2473573" sideWeight="0.7284483" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5975904" sideWeight="0.5024665" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24876674" sideWeight="0.50486785" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5746988" sideWeight="0.49753347" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24876674" sideWeight="0.27155173" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29638556" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/regular-redux/bindStore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/reducers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="31" column="40" lean-forward="false" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/store.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/todomvc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="7" lean-forward="false" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/actions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/todomvc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="42" lean-forward="false" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/reducers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="31" column="40" lean-forward="false" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/store.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/todomvc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="7" lean-forward="false" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/actions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/todomvc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="36" column="6" lean-forward="false" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dest/todomvc.html" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dest/app.js" />
+    <entry file="file://$PROJECT_DIR$/npm-debug.log" />
+    <entry file="file://$PROJECT_DIR$/app/actions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dest/todomvc.html" />
+    <entry file="file://$PROJECT_DIR$/dest/store.js" />
+    <entry file="file://$PROJECT_DIR$/app/store.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/regularjs/regular.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="5" column="684" lean-forward="false" selection-start-line="5" selection-start-column="684" selection-end-line="5" selection-end-column="684" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="95">
+            <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/regular-redux/connect.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="39" lean-forward="false" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/regular-redux/bindStore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="41" lean-forward="false" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/todomvc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="3" lean-forward="false" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/reducers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dest/regular-redux/bindStore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="18" column="6" lean-forward="false" selection-start-line="18" selection-start-column="6" selection-end-line="27" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/todomvc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-275">
+          <caret line="18" column="15" lean-forward="false" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/nej/src/util/dispatcher/dispatcher.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="1198" column="53" lean-forward="true" selection-start-line="1198" selection-start-column="53" selection-end-line="1198" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dest/regular-redux/connect.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redux_regular.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
