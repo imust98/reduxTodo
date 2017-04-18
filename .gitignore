@@ -1,6 +1,6 @@
 node_modules
 npm-debug.log
-dest
+#dest
 #lib
 .idea
 .DS_Store

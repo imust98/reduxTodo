@@ -1,21 +1,22 @@
-##Redux+Regular实践
+##基于Redux+Regular实践
+
+>Redux 是当前非常流行一种优秀技术，它的设计思想非常值得学习和借鉴，本文将介绍Redux的一些入门概念，并配合一个实例，来描述如何用Redux和Regular来实现一个完整的组件
 
 ###主要内容  
 >什么是Redux  
 >Action介绍  
 >Reducer介绍  
 >Store介绍  
->结合框架使用
+>结合框架使用  
 >总结
 
-###什么是reudx
-redux 是 facebook 提出的 flux 架构的一种优秀实现，它跟react没有必然的联系，可以跟任何框架结合使用；redux主要用来管理State的状态,所有的操作都需要经过redux来操作。它主要由Action，Reducer，Store三部分组成。
-###为什么需要redux
+###什么是Redux
+Redux 是 facebook 提出的 flux 架构的一种优秀实现，它跟react没有必然的联系，可以跟任何框架结合使用；Redux主要用来管理State的状态,所有的操作都需要经过Redux来操作。它主要由Action，Reducer，Store三部分组成。
 
 ###Action
 Actions 是把数据从应用传到 store 的有效载荷。它是 store 数据的唯一来源。用法是通过 store.dispatch() 把 action 传到 store。
 
-在 redux 中 ，Action 是一个普通的对象，并且约定使用一个字符串类型的type 字段来表示将要执行的动作。另外Action可以用来存放一些想要操作的数据，一个典型的Action结构如下：
+在 Redux 中 ，Action 是一个普通的对象，并且约定使用一个字符串类型的type 字段来表示将要执行的动作。另外Action可以用来存放一些想要操作的数据，一个典型的Action结构如下：
 	
 	{
 		type:'ADD_ITEM',
@@ -32,7 +33,7 @@ Actions 是把数据从应用传到 store 的有效载荷。它是 store 数据�
 ###Reducer
 Action 只是描述了有事情发生了这一事实，并没有指明应用如何更新 state。那么 reducer 是来做这个事情的。
 
-在redux 中，Reducer 是一个普通的回调函数，当它被 redux调用的时候会为它传递两个参数 State 和 Action。Reducer会根据Action的type 和 其它需要处理的数据 进行一个对旧的state更新操作，然后返回新的state。类似于：
+在Redux 中，Reducer 是一个普通的回调函数，当它被 Redux调用的时候会为它传递两个参数 State 和 Action。Reducer会根据Action的type 和它需要处理的数据对旧的state更新操作，然后返回新的state。类似于：
 
 	let createItem = (state = [] ,action)  => {
 		switch(action.type) {
@@ -103,7 +104,7 @@ Connect用来把Redux最后产出的state传递给Component组件，大体实现
   	}
 
 ###总结：
-Redux 真正的灵魂在与其思想，同时给我们开发复杂项目提供了很好的一个选择，但不可滥用，要看钉子选锤子，否则反而增加项目开发的复杂度。当然在享受Redux带来好处的同时，我们也应该遵循一些准则：
+Redux 真正的灵魂在于其思想，同时给我们开发复杂项目提供了很好的一个选择，但不可滥用，要看钉子选锤子，否则反而增加项目开发的复杂度。当然在享受Redux带来好处的同时，我们也应该遵循一些准则：
 
 * 使用基本对象与数组来描述应用状态
 * 使用基本的对象来描述系统变化
